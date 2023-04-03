@@ -1,0 +1,15 @@
+[SwitchyOmega Conditions]
+; Require: SwitchyOmega >= 2.3.2
+; Date: 2023/4/3
+; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
+
+*.google.com
+*.gstatic.com
+*.googleusercontent.com
+*.ajax.googleapis.com
+*.chatpdf.com
+*.cigarshopworld.com
+*.atlanticcigar.com
+*.youtube.com
+*.github.com
+*.amazonaws.com
